@@ -1,0 +1,4 @@
+,index,gut_location,flow_rate_change_L_day,flow_rate_change_source,flow_rate_change_study,coliform_density_log_CFU_mL,coliform_density_study,coliform_relative_abundance_%,coliform_relative_abundance_study,flow_rate_L_day,coliform_passage_log_CFU_day,coliform_density_increase_log2,coliform_density_increase_from_growth_log2,coliform_density_increase_from_water_reuptake_log2
+0,5,Ileum,-2.0,Reuptake,Barrett_2019,1.2,Gorbach_1967,3.0,Gorbach_1967_overestimation,3.5,4.744068044350276,,,
+1,6,Cecum,0.0,,,6.2,Gorbach_1967,26.8,Marteau_2001,1.5,9.37609125905568,16.609640474436812,15.387248053100361,1.2223924213364512
+2,8,Feces,-0.2,Excretion,Barrett_2019,9.0,Marteau_2001_Stephen_1980,2.0,Marteau_2001,0.1999999999999993,11.30102999566398,9.301398665684614,6.394508070076093,2.9068905956085214

@@ -1,0 +1,24 @@
+,species,strain,media,habitat,study,DOI,Osm/kg,growth_rate_hr,growth_rate_hr_norm,mOsm/kg
+0,E_coli,K12_MG1655_CGSC6300,M9_glycerol,"Warm-blooded animal gut, fresh water bodies, soil",Malakar_2014,https://doi.org/10.1186/2193-1801-3-748,0.2473145979703357,1.00476190476191,1.0,247.3145979703357
+1,E_coli,K12_MG1655_CGSC6300,M9_glycerol,"Warm-blooded animal gut, fresh water bodies, soil",Malakar_2014,https://doi.org/10.1186/2193-1801-3-748,0.65656518345043,0.940476190476191,0.9360189573459672,656.56518345043
+2,E_coli,K12_MG1655_CGSC6300,M9_glycerol,"Warm-blooded animal gut, fresh water bodies, soil",Malakar_2014,https://doi.org/10.1186/2193-1801-3-748,1.04283025414173,0.752380952380953,0.748815165876774,1042.83025414173
+3,E_coli,K12_MG1655_CGSC6300,M9_glycerol,"Warm-blooded animal gut, fresh water bodies, soil",Malakar_2014,https://doi.org/10.1186/2193-1801-3-748,1.45596235579842,0.514285714285714,0.5118483412322246,1455.96235579842
+4,E_coli,K12_MG1655_CGSC6300,M9_glycerol,"Warm-blooded animal gut, fresh water bodies, soil",Malakar_2014,https://doi.org/10.1186/2193-1801-3-748,1.85829560239396,0.29047619047619,0.2890995260663487,1858.29560239396
+5,E_coli,K12_MG1655_CGSC6300,M9_glycerol,"Warm-blooded animal gut, fresh water bodies, soil",Malakar_2014,https://doi.org/10.1186/2193-1801-3-748,2.2560751149275697,0.166666666666667,0.16587677725118427,2256.0751149275698
+6,E_coli,K12_MG1655,LB,"Warm-blooded animal gut, fresh water bodies, soil",Dai_2018,https://doi.org/10.1128/msphere.00430-18,0.4352254641909812,1.0,1.0,435.2254641909812
+7,E_coli,K12_MG1655,LB,"Warm-blooded animal gut, fresh water bodies, soil",Dai_2018,https://doi.org/10.1128/msphere.00430-18,1.234164456233422,0.695309583109039,0.695309583109039,1234.164456233422
+8,E_coli,K12_MG1655,LB,"Warm-blooded animal gut, fresh water bodies, soil",Dai_2018,https://doi.org/10.1128/msphere.00430-18,1.434694960212202,0.618711885958135,0.618711885958135,1434.6949602122022
+9,E_coli,K12_MG1655,LB,"Warm-blooded animal gut, fresh water bodies, soil",Dai_2018,https://doi.org/10.1128/msphere.00430-18,1.63840848806366,0.545501437218946,0.545501437218946,1638.4084880636601
+10,E_coli,K12_MG1655,LB,"Warm-blooded animal gut, fresh water bodies, soil",Dai_2018,https://doi.org/10.1128/msphere.00430-18,1.73389920424403,0.486010918965441,0.486010918965441,1733.89920424403
+11,E_coli,K12_MG1655,LB,"Warm-blooded animal gut, fresh water bodies, soil",Dai_2018,https://doi.org/10.1128/msphere.00430-18,1.83893899204244,0.43837801932186,0.43837801932186,1838.9389920424398
+12,E_coli,K12_MG1655,LB,"Warm-blooded animal gut, fresh water bodies, soil",Dai_2018,https://doi.org/10.1128/msphere.00430-18,1.93761273209549,0.358532522233034,0.358532522233034,1937.61273209549
+13,E_coli,K12_MG1655,LB,"Warm-blooded animal gut, fresh water bodies, soil",Dai_2018,https://doi.org/10.1128/msphere.00430-18,2.03946949602122,0.302424754053377,0.302424754053377,2039.46949602122
+14,E_coli,K12_MG1655,MOPS_glucose,"Warm-blooded animal gut, fresh water bodies, soil",Cayley_1991,https://doi.org/10.1016/0022-2836(91)90212-O,0.0384544084478513,0.884383426055496,0.884383426055496,38.4544084478513
+15,E_coli,K12_MG1655,MOPS_glucose,"Warm-blooded animal gut, fresh water bodies, soil",Cayley_1991,https://doi.org/10.1016/0022-2836(91)90212-O,0.105998084402989,0.935856172565616,0.935856172565616,105.998084402989
+16,E_coli,K12_MG1655,MOPS_glucose,"Warm-blooded animal gut, fresh water bodies, soil",Cayley_1991,https://doi.org/10.1016/0022-2836(91)90212-O,0.266755466145771,1.0,1.0,266.755466145771
+17,E_coli,K12_MG1655,MOPS_glucose,"Warm-blooded animal gut, fresh water bodies, soil",Cayley_1991,https://doi.org/10.1016/0022-2836(91)90212-O,0.460821234976467,0.915572203829481,0.915572203829481,460.821234976467
+18,E_coli,K12_MG1655,MOPS_glucose,"Warm-blooded animal gut, fresh water bodies, soil",Cayley_1991,https://doi.org/10.1016/0022-2836(91)90212-O,0.541767796228082,0.788397214922011,0.788397214922011,541.767796228082
+19,E_coli,K12_MG1655,MOPS_glucose,"Warm-blooded animal gut, fresh water bodies, soil",Cayley_1991,https://doi.org/10.1016/0022-2836(91)90212-O,0.640711700361263,0.71927881497662,0.71927881497662,640.7117003612631
+20,E_coli,K12_MG1655,MOPS_glucose,"Warm-blooded animal gut, fresh water bodies, soil",Cayley_1991,https://doi.org/10.1016/0022-2836(91)90212-O,0.797114932387665,0.637100242329089,0.637100242329089,797.1149323876649
+21,E_coli,K12_MG1655,MOPS_glucose,"Warm-blooded animal gut, fresh water bodies, soil",Cayley_1991,https://doi.org/10.1016/0022-2836(91)90212-O,1.00492116185422,0.500989794873545,0.500989794873545,1004.92116185422
+22,E_coli,K12_MG1655,MOPS_glucose,"Warm-blooded animal gut, fresh water bodies, soil",Cayley_1991,https://doi.org/10.1016/0022-2836(91)90212-O,1.10185391799093,0.421116761664221,0.421116761664221,1101.8539179909299

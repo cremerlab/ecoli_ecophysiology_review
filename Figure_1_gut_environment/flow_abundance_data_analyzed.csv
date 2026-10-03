@@ -1,0 +1,10 @@
+,gut_location,flow_rate_change_L_day,flow_rate_change_source,flow_rate_change_study,coliform_density_log_CFU_mL,coliform_density_study,coliform_relative_abundance_%,coliform_relative_abundance_study,flow_rate_L_day,coliform_passage_log_CFU_day
+0,Intake,2.0,Food / Drink,Barrett_2019,,,,,0.0,
+1,Mouth,1.5,Saliva,Barrett_2019,,,,,2.0,
+2,Stomach,2.5,Gastric\njuice,Barrett_2019,,,,,3.5,
+3,Duodedum /\nJejunum,3.0,Bile /\nother secretions,Barrett_2019,,,,,6.0,
+4,Duodedum /\nJejunum,-5.5,Reuptake,Barrett_2019,,,,,9.0,
+5,Ileum,-2.0,Reuptake,Barrett_2019,1.2,Gorbach_1967,3.0,Gorbach_1967_overestimation,3.5,4.744068044350276
+6,Cecum,0.0,,,6.2,Gorbach_1967,26.8,Marteau_2001,1.5,9.37609125905568
+7,Large Intestine,-1.3,Reuptake,Barrett_2019,,,,,1.5,
+8,Feces,-0.2,Excretion,Barrett_2019,9.0,Marteau_2001_Stephen_1980,2.0,Marteau_2001,0.1999999999999993,11.30102999566398
